@@ -1,0 +1,9 @@
+{
+    "task_id": "note.json",
+    "title": "Nowe features",
+    "creation_time": "2024-02-19 15:03:01",
+    "update_time": "2024-02-19 15:03:01",
+    "status": "Active",
+    "priority": "Minor",
+    "message": "\n                        _           __         \n   ________  ____ ___  (_)___  ____/ /__  _____\n  / ___/ _ \\/ __ `__ \\/ / __ \\/ __  / _ \\/ ___/\n / /  /  __/ / / / / / / / / / /_/ /  __/ /    \n/_/   \\___/_/ /_/ /_/_/_/ /_/\\__,_/\\___/_/     \n===============================================\nEdit below in order to change contents\nvi /home/angel2/workspace/rminder/notebook-db/note.json\n"
+}
