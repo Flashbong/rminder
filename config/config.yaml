@@ -1,17 +1,15 @@
 reminder:
-  user: admin
-  password: admin1
-  local-database:
-    active: true
+  file_extension: 'json'
+  local-db-data:
+    local-db: true
     note-db: 'notebook-db'
-    note-prefix: 'note-'
-  external-database:
-    active: false
-    conf:
-      host: mongodb.local
-      port: 5432
-      dbname: rmind-db01
-      user: mongo01
-      password: mongo011
-      connect_timeout: 60
-      sslmode: none
+    note-prefix: 'note'
+  external-db-data:
+    ext-db: false
+    host: mongodb.local
+    port: 5432
+    dbname: rmind-db01
+    user: mongo01
+    password: mongo011
+    connect_timeout: 60
+    sslmode: none
